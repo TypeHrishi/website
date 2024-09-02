@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #121212;
+    color: #ffffff;
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #1e1e1e;
+    color: #ffffff;
     padding: 20px 0;
     text-align: center;
 }
@@ -20,9 +20,9 @@ header {
 
 #intro h2, #contact h2 {
     font-size: 28px;
-    color: #333;
+    color: #ffffff;
     padding-bottom: 10px;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #ffffff;
     margin-bottom: 20px;
 }
 
@@ -30,6 +30,7 @@ header {
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 20px;
+    color: #d3d3d3;
 }
 
 #intro {
@@ -40,11 +41,12 @@ header {
 #contact {
     padding: 20px;
     text-align: left;
-    background-color: #e9ecef;
+    background-color: #1e1e1e;
+    border-top: 2px solid #333;
 }
 
 a {
-    color: #007BFF;
+    color: #bb86fc;
     text-decoration: none;
 }
 
