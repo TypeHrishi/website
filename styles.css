@@ -64,3 +64,11 @@ a:hover {
         font-size: 16px;
     }
 }
+
+#shree-symbol {
+    font-size: 24px;
+    color: #bb86fc;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
